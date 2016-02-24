@@ -1,5 +1,0 @@
-abc
-
-checkin2
-
-checking from local master
